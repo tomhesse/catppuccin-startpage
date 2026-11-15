@@ -52,7 +52,7 @@ const default_configuration = {
   localIcons: true,
   localFonts: true,
   fastlink: "https://www.tomhesse.xyz",
-  openLastVisitedTab: true,
+  openLastVisitedTab: false,
   tabs: [
     {
       name: "myself",
